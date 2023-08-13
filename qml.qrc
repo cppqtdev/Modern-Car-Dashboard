@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/Base.svg</file>
+        <file>icons/entypo_home.svg</file>
+        <file>icons/Navigation.svg</file>
+        <file>icons/Top Navigation.svg</file>
+        <file>icons/Vector.svg</file>
+        <file>icons/Background.png</file>
+        <file>icons/car.png</file>
+        <file>icons/Navigation.png</file>
+        <file>icons/bxs_music.svg</file>
+        <file>icons/clarity_settings-solid.svg</file>
+        <file>icons/ep_menu.svg</file>
+        <file>icons/eva_phone-call-fill.svg</file>
+        <file>img/background.png</file>
+        <file>img/background.svg</file>
+        <file>img/cirlcle.svg</file>
+        <file>img/Ellipse 1.svg</file>
+        <file>img/Ellipse 5.svg</file>
+        <file>img/Ellipse 6.svg</file>
+        <file>img/maxLimit.svg</file>
+        <file>img/needle.svg</file>
+        <file>img/Rectangle 4.svg</file>
+        <file>img/ring.svg</file>
+        <file>img/sub.svg</file>
+        <file>img/Subtract.svg</file>
+        <file>img/tickmark.svg</file>
+        <file>SideGauge.qml</file>
+        <file>icons/Car.svg</file>
+        <file>icons/Vector 1.svg</file>
+        <file>icons/Vector 2.svg</file>
+        <file>img/Model 3.png</file>
+        <file>icons/light/bxs_music.svg</file>
+        <file>icons/light/clarity_settings-solid.svg</file>
+        <file>icons/light/entypo_home.svg</file>
+        <file>icons/light/ep_menu.svg</file>
+        <file>icons/light/eva_phone-call-fill.svg</file>
+        <file>MyButton.qml</file>
+        <file>icons/Headlights.svg</file>
+        <file>icons/light/Car_Icon.svg</file>
+        <file>icons/Car_icon.svg</file>
+    </qresource>
+</RCC>
